@@ -1,7 +1,10 @@
 '''
-There are n citizens voting in this year's HackLand election. Each voter writes the name of their chosen candidate on a ballot and places it in a ballot box. The candidate with the highest number of votes wins the election; if two or more candidates have the same number of votes, then the tied candidates' names are ordered alphabetically and the last name wins.
+There are n citizens voting in this year's HackLand election. Each voter writes the name of their chosen candidate on a ballot 
+and places it in a ballot box. The candidate with the highest number of votes wins the election; if two or more candidates have 
+the same number of votes, then the tied candidates' names are ordered alphabetically and the last name wins.
  
-Complete the electionWinnerfunction in your editor. It has 1parameter: an array of strings,votes, describing the votes in the ballot box. This function must review these votes and return a string representing the name of the winning candidate.
+Complete the electionWinnerfunction in your editor. It has 1parameter: an array of strings,votes, describing the votes in the 
+ballot box. This function must review these votes and return a string representing the name of the winning candidate.
  
 Input Format
 The locked stub code in your editor reads the following input from stdin and passes it to your function:
